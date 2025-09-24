@@ -1,4 +1,4 @@
-import TreesChart from "components/TreesChart.js";
+import TreesChart from "components/TreesChart.jsx";
 
 export default function Home() {
   return (
